@@ -1,0 +1,14 @@
+# User Story Prompt
+
+User story using the format:
+As an [actor], I want [action], so that [goal].
+
+Rules:
+- Focus on business value
+- Keep it simple and clear
+- Avoid technical implementation details
+
+Input:
+Feature: {feature}
+Actor: {actor}
+Goal: {goal}
