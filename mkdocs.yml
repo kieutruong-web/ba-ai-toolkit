@@ -1,0 +1,23 @@
+site_name: BA AI Toolkit
+site_description: AI-assisted toolkit for Business Analysts
+site_author: kieutruong
+
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - search.highlight
+    - content.code.copy
+
+nav:
+  - Home: index.md
+  - Examples:
+      - Login Feature: examples/login-feature.md
+
+markdown_extensions:
+  - admonition
+  - tables
+  - toc:
+      permalink: true
