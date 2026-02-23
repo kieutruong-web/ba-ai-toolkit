@@ -24,15 +24,21 @@ It includes templates, prompts, and real examples that reflect practical BA work
 
 ## 📂 Project Structure
 
-- `docs/` – Documentation templates  
-- `prompts/` – AI prompts for generating BA artifacts  
-- `examples/` – Sample features (login, etc.)  
+This project uses **MkDocs** to organize documentation.
+
+- `docs/` – Main documentation source  
+  - `examples/` – Sample BA artifacts (login, etc.)  
+  - `prompts/` – AI prompts for generating BA artifacts  
+  - `guides/` – How to use AI in BA workflows  
+
+- `mkdocs.yml` – Site configuration  
+- `README.md` – Project overview 
 
 ---
 
 ## 📖 Example
 
-👉 [Login Feature Example](./examples/login-feature.md)
+👉 [Login Feature Example](docs/examples/login-feature.md ✅)
 
 This example includes:
 - Business Goal  
@@ -71,4 +77,4 @@ Business Analyst with experience in:
 ## 📝 Version
 
 - v1.0 – Initial structure (docs, prompts, examples)
-- v1.1 – Added login feature example
+- v1.1 – Integrated MkDocs site with Material theme
