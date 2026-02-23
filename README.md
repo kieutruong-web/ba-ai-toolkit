@@ -38,7 +38,7 @@ This project uses **MkDocs** to organize documentation.
 
 ## 📖 Example
 
-👉 [Login Feature Example](docs/examples/login-feature.md ✅)
+👉 [Login Feature Example](./examples/login-feature.md ✅)
 
 This example includes:
 - Business Goal  
