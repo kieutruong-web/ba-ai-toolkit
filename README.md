@@ -77,4 +77,6 @@ Business Analyst with experience in:
 ## 📝 Version
 
 - v1.0 – Initial structure (docs, prompts, examples)
-- v1.1 – Integrated MkDocs site with Material theme [(https://kieutruong-web.github.io/ba-ai-toolkit)](https://kieutruong-web.github.io/ba-ai-toolkit)
+- v1.1 – Integrated MkDocs site with Material theme
+  👉 View on Website: https://kieutruong-web.github.io/ba-ai-toolkit/examples/login-feature/
+  👉 View Source: https://github.com/kieutruong-web/ba-ai-toolkit/blob/main/docs/examples/login-feature.md
